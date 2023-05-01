@@ -1,22 +1,27 @@
-# BMB2006VYProje
 
-BURSA ULUDAĞ ÜNİVERSİTESİ
-BMB2006 VERİ YAPILARI DERSİ
-PROJE ÖDEVİ
-
+# BURSA ULUDAĞ ÜNİVERSİTESİ<br>
+## BMB2006 VERİ YAPILARI DERSİ<br>
+### PROJE ÖDEVİ<br>
+<br>
+<br>
+<br>
 Bir online alışveriş mağazasının ürün, ürün satış, kargo ve ödeme kayıtlarını tutmak amaçlı bir yazılım projesi
-
-Öğrenilen Veri Tipleri
-
-LinkedList (bağlı liste)
-Queue (kuyruk)
-Stack (yığın)
-Binary Tree
-Binary Search Tree
-Bplus Tree
-AVL Tree
-HashTable
-
+<br>
+<br>
+<br>
+Öğrenilen Veri Tipleri<br>
+<br>
+LinkedList (bağlı liste)<br>
+Queue (kuyruk)<br>
+Stack (yığın)<br>
+Binary Tree<br>
+Binary Search Tree<br>
+Bplus Tree<br>
+AVL Tree<br>
+HashTable<br>
+<br>
+<br>
+<br>
 
 
 Problem entityleri ve veri tipleri:
