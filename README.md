@@ -18,7 +18,7 @@ AVL Tree
 HashTable
 
 
- 
+
 Problem entityleri ve veri tipleri:
 
 -	Product (Binary Search Tree)
